@@ -1,0 +1,1 @@
+window.onload=function(){new Swiper(".swiper-container",{direction:"vertical",loop:!0})};
